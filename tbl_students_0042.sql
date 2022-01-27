@@ -40,7 +40,7 @@ CREATE TABLE `tbl_students_0042` (
 -- Dumping data for table `tbl_students_0042`
 --
 
-INSERT INTO `tbl_students_0577` (`no`, `nim`, `nama`, `jk`, `jurusan`, `alamat`) VALUES
+INSERT INTO `tbl_students_0042` (`no`, `nim`, `nama`, `jk`, `jurusan`, `alamat`) VALUES
 (1, '20.90.1234', 'Mansur Tri', 'L', 'Teknik Komputer', 'Yogyakarta'),
 (2, '20.90.1235', 'Agung Surya', 'L', 'Informatika', 'Sleman'),
 (3, '20.90.1236', 'Krisna Imran', 'L', 'Sistem Informasi', 'Bantul'),
